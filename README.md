@@ -3,7 +3,7 @@
 ## Creo el esqueleto para no empezar de cero
 
 ```sh
-npm create vite@lates ./
+npm create vite@latest ./
 ````
 
 ```sh
